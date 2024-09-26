@@ -1,0 +1,164 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// Multiplayer options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life Server Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Mon Jul 12 05:28:33 PM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION SERVER_OPTIONS
+{
+	"hostname"
+	{
+		"#Valve_Hostname"
+		{ STRING }
+		{ "Open Fortress" }
+	}
+
+	"maxplayers"
+	{
+		"#Valve_Max_Players"
+		{ NUMBER 1 64 }
+		{ "16" }
+	}
+	
+	"sv_password"
+	{
+		"#Valve_Server_Password"
+		{ STRING }
+		{ "" }
+	}
+	
+	"mp_winlimit"
+	{
+		"#TF_Winlimit"
+		{ NUMBER 0 -1 }
+		{ "2" }
+	}
+	
+	"mp_fraglimit"
+	{
+		"#TF_Fraglimit"
+		{ NUMBER 0 -1 }
+		{ "25" }
+	}
+	
+	"mp_timelimit"
+	{
+		"#TF_Timelimit"
+		{ NUMBER 0 -1 }
+		{ "30" }
+	}
+	
+	"mp_maxrounds"
+	{
+		"#TF_MaxRounds"
+		{ NUMBER 0 -1 }
+		{ "3" }
+	}
+	
+	"of_mctf_flag_caps_per_round"
+	{
+		"#TF_MCTF_FlagCaps"
+		{ NUMBER 0 9 }
+		{ "7" }
+	}
+
+    "mp_teamplay"
+    {
+        "#TF_TeamPlay"
+        {
+            LIST 
+			"#TF_Option_MAP"		"-1"
+            "#TF_Option_OFF" 		"0"
+            "#TF_Option_ON" 		"1"
+        }
+        { "0" }
+    }
+	
+	"of_teamplay_collision"
+	{
+		"#TF_TeamPlay_Collison"
+  		{ BOOL }
+		{ "0" }
+	}
+	
+	"of_teamplay_knockback"
+	{
+		"#TF_TeamPlay_Knockback"
+  		{ BOOL }
+		{ "0" }
+	}
+	
+	"of_retromode"
+    {
+        "#TF_Retromode"
+        {
+            LIST 
+			//"#TF_Option_MAP"			"-1"
+            "#TF_Option_OFF" 			"0"
+            "#TF_Option_ON" 			"1"
+			"#TF_Option_BLU_Only" 		"2"
+			"#TF_Option_RED_Only" 		"3"
+        }
+        { "0" }
+    }
+	
+	"of_mutator"
+	{
+		"#TF_Mutators"
+        {
+            LIST        
+            "#TF_Option_OFF" 		"0"
+			"#TF_Instagib"			"1"
+			"#TF_InstagibNoMelee" 	"2"
+			"#TF_ClanArena"			"3"
+			"#TF_UnholyTrinity"		"4"
+			"#TF_RocketArena"		"5"
+			"#TF_GunGame"			"6"
+			"#TF_Arsenal"			"7"
+			"#TF_EnteralShotguns"	"8"
+        }
+        { "0" }
+	}
+	
+	"of_forceclass"
+	{
+		"#TF_ForceClass"
+		{ BOOL }
+		{ "1" }
+	}
+}

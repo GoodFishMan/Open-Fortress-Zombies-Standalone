@@ -1,0 +1,2586 @@
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 2
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1706 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (971529 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4451 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+16 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68847 visible clusters (0.00%)
+Total clusters visible: 923928
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365894  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726418 square feet [248604192.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134582 patches after subdivision
+126 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14150719, max 1035
+transfer lists: 108.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(582050, 447187, 340015)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(117661, 86115, 59336)
+Build Patch/Sample Hash Table(s).....Done<0.0348 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2714/32768       32568/393216   ( 8.3%) 
+brushsides           20348/65536      162784/524288   (31.0%) 
+planes               12248/65536      244960/1310720  (18.7%) 
+vertexes             14653/65536      175836/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11543/65536       23086/131072   (17.6%) 
+leafbrushes           5423/65536       10846/131072   ( 8.3%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72857/512000     291428/2048000  (14.2%) 
+edges                46408/256000     185632/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        126/16384       11088/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            967/131072       9670/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18768/131072      37536/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5478048/0        ( 0.0%) 
+visdata               [variable]      365894/16777216 ( 2.2%) 
+entdata               [variable]      118221/393216   (30.1%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     15298/65536      428344/1835008  (23.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/115642   ( 0.0%) 
+pakfile               [variable]    10288332/0        ( 0.0%) 
+physics               [variable]      971529/4194304  (23.2%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26441
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 22 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 3
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1706 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (971529 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4451 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+11 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68847 visible clusters (0.00%)
+Total clusters visible: 923928
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365894  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726418 square feet [248604192.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134582 patches after subdivision
+126 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14150719, max 1035
+transfer lists: 108.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(274371, 263588, 247240)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(71072, 61866, 49009)
+Build Patch/Sample Hash Table(s).....Done<0.0360 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2714/32768       32568/393216   ( 8.3%) 
+brushsides           20348/65536      162784/524288   (31.0%) 
+planes               12248/65536      244960/1310720  (18.7%) 
+vertexes             14653/65536      175836/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11543/65536       23086/131072   (17.6%) 
+leafbrushes           5423/65536       10846/131072   ( 8.3%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72857/512000     291428/2048000  (14.2%) 
+edges                46408/256000     185632/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        126/16384       11088/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            967/131072       9670/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18768/131072      37536/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5478048/0        ( 0.0%) 
+visdata               [variable]      365894/16777216 ( 2.2%) 
+entdata               [variable]      118221/393216   (30.1%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14244/65536      398832/1835008  (21.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/115642   ( 0.0%) 
+pakfile               [variable]    10288332/0        ( 0.0%) 
+physics               [variable]      971529/4194304  (23.2%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26441
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 36 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 6
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1706 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (974129 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4451 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68847 visible clusters (0.00%)
+Total clusters visible: 923928
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365894  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726418 square feet [248604224.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134578 patches after subdivision
+128 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14097254, max 1031
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(281442, 271686, 258322)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72227, 63012, 50326)
+Build Patch/Sample Hash Table(s).....Done<0.0352 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2719/32768       32628/393216   ( 8.3%) 
+brushsides           20385/65536      163080/524288   (31.1%) 
+planes               12274/65536      245480/1310720  (18.7%) 
+vertexes             14656/65536      175872/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11543/65536       23086/131072   (17.6%) 
+leafbrushes           5455/65536       10910/131072   ( 8.3%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72856/512000     291424/2048000  (14.2%) 
+edges                46401/256000     185604/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        128/16384       11264/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            967/131072       9670/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18768/131072      37536/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5478040/0        ( 0.0%) 
+visdata               [variable]      365894/16777216 ( 2.2%) 
+entdata               [variable]      117131/393216   (29.8%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14523/65536      406644/1835008  (22.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/116524   ( 0.0%) 
+pakfile               [variable]    10375514/0        ( 0.0%) 
+physics               [variable]      974129/4194304  (23.2%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26440
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 38 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 10
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (977185 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+128 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14109493, max 1031
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282487, 272624, 259096)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72371, 63132, 50420)
+Build Patch/Sample Hash Table(s).....Done<0.0354 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12310/65536      246200/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5528/65536       11056/131072   ( 8.4%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        128/16384       11264/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5480560/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      117148/393216   (29.8%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14487/65536      405636/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/116514   ( 0.0%) 
+pakfile               [variable]    10375514/0        ( 0.0%) 
+physics               [variable]      977185/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 39 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 13
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+15 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2635 visible clusters (0.00%)
+Total clusters visible: 371238
+Average clusters visible: 294
+Building PAS...
+Average clusters audible: 1025
+visdatasize:311086  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+6 minutes, 3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+128 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14101020, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(277392, 267928, 254704)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(71203, 62181, 49669)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(19971, 15991, 10844)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5987, 4445, 2570)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1878, 1301, 642)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(613, 398, 167)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(206, 126, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 41, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(25, 14, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(9, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0360 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        128/16384       11264/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5480560/0        ( 0.0%) 
+visdata               [variable]      311086/16777216 ( 1.9%) 
+entdata               [variable]      117344/393216   (29.8%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14497/65536      405916/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/116792   ( 0.0%) 
+pakfile               [variable]    10389038/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+2 minutes, 19 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 14
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+129 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14102263, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282444, 272591, 259072)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72390, 63154, 50440)
+Build Patch/Sample Hash Table(s).....Done<0.0371 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        129/16384       11352/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     6145964/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      117536/393216   (29.9%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14496/65536      405888/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/19639    ( 0.0%) 
+static props          [variable]           1/116792   ( 0.0%) 
+pakfile               [variable]    10389038/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 45 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 15
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+129 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14102263, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282444, 272591, 259072)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72390, 63154, 50440)
+Build Patch/Sample Hash Table(s).....Done<0.0372 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        129/16384       11352/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     6145964/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      117711/393216   (29.9%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14496/65536      405888/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/19639    ( 0.0%) 
+static props          [variable]           1/116792   ( 0.0%) 
+pakfile               [variable]    10389038/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 42 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 16
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+14 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+129 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14102263, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282444, 272591, 259072)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72390, 63154, 50440)
+Build Patch/Sample Hash Table(s).....Done<0.0408 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        129/16384       11352/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     6145964/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      117775/393216   (30.0%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14496/65536      405888/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/19639    ( 0.0%) 
+static props          [variable]           1/116792   ( 0.0%) 
+pakfile               [variable]    10389038/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+2 minutes, 10 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 17
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+13 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+129 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14102263, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282444, 272591, 259072)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72390, 63154, 50440)
+Build Patch/Sample Hash Table(s).....Done<0.0898 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        129/16384       11352/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     6145964/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      117775/393216   (30.0%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14496/65536      405888/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/19639    ( 0.0%) 
+static props          [variable]           1/116792   ( 0.0%) 
+pakfile               [variable]    10389038/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 58 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 20
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+131 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14102263, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282664, 272793, 259252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72404, 63166, 50448)
+Build Patch/Sample Hash Table(s).....Done<0.0369 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        131/16384       11528/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     6163324/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      118555/393216   (30.2%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14510/65536      406280/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/19809    ( 0.0%) 
+static props          [variable]           1/116792   ( 0.0%) 
+pakfile               [variable]    10389038/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 49 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 21
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+131 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14102263, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282444, 272591, 259072)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72390, 63154, 50440)
+Build Patch/Sample Hash Table(s).....Done<0.0464 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        131/16384       11528/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     6163324/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      118576/393216   (30.2%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14496/65536      405888/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/19809    ( 0.0%) 
+static props          [variable]           1/116792   ( 0.0%) 
+pakfile               [variable]    10389038/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 58 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 23
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+131 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14102263, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282458, 272603, 259082)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72392, 63156, 50441)
+Build Patch/Sample Hash Table(s).....Done<0.0446 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        131/16384       11528/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     6163324/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      118584/393216   (30.2%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14495/65536      405860/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/19809    ( 0.0%) 
+static props          [variable]           1/116792   ( 0.0%) 
+pakfile               [variable]    10389038/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+2 minutes, 2 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 25
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+132 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14098322, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282454, 272598, 259077)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72390, 63154, 50439)
+Build Patch/Sample Hash Table(s).....Done<0.0525 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        132/16384       11616/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     6876424/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      119567/393216   (30.4%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14495/65536      405860/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/29349    ( 0.0%) 
+static props          [variable]           1/116868   ( 0.0%) 
+pakfile               [variable]    10395800/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 57 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 26
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+16 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+132 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14098322, max 1030
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(282454, 272598, 259077)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72390, 63154, 50439)
+Build Patch/Sample Hash Table(s).....Done<0.0561 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        132/16384       11616/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     6876424/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      119567/393216   (30.4%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14495/65536      405860/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/29349    ( 0.0%) 
+static props          [variable]           1/116868   ( 0.0%) 
+pakfile               [variable]    10395800/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+2 minutes, 31 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 35
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (977217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+18 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+137 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 13864549, max 1016
+transfer lists: 105.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(281285, 271093, 257112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72135, 62884, 50162)
+Build Patch/Sample Hash Table(s).....Done<0.0619 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2725/32768       32700/393216   ( 8.3%) 
+brushsides           20434/65536      163472/524288   (31.2%) 
+planes               12308/65536      246160/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5552/65536       11104/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        137/16384       12056/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     7135908/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      121853/393216   (31.0%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14501/65536      406028/1835008  (22.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/32104    ( 0.0%) 
+static props          [variable]           1/121962   ( 0.0%) 
+pakfile               [variable]    10471420/0        ( 0.0%) 
+physics               [variable]      977217/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+2 minutes, 31 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 37
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (978545 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4452 texinfos to 3252
+Reduced 257 texdatas to 239 (7778 bytes to 7076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251306, actual size 5226168
+13 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1259 portalclusters
+3777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68834 visible clusters (0.00%)
+Total clusters visible: 923931
+Average clusters visible: 733
+Building PAS...
+Average clusters audible: 1204
+visdatasize:365895  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9028 faces
+8 degenerate faces
+1726484 square feet [248613824.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9020 patches before subdivision
+zero area child patch
+134594 patches after subdivision
+137 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14008026, max 1020
+transfer lists: 106.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(313694, 306394, 299208)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77664, 68096, 55369)
+Build Patch/Sample Hash Table(s).....Done<0.0429 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               2727/32768       32724/393216   ( 8.3%) 
+brushsides           20453/65536      163624/524288   (31.2%) 
+planes               12332/65536      246640/1310720  (18.8%) 
+vertexes             14657/65536      175884/786432   (22.4%) 
+nodes                 2942/65536       94144/2097152  ( 4.5%) 
+texinfos              3252/12288      234144/884736   (26.5%) 
+texdata                239/2048         7648/65536    (11.7%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9028/65536      505568/3670016  (13.8%) 
+hdr faces             9028/65536      505568/3670016  (13.8%) 
+origfaces             7065/65536      395640/3670016  (10.8%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces            11541/65536       23082/131072   (17.6%) 
+leafbrushes           5556/65536       11112/131072   ( 8.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            72860/512000     291440/2048000  (14.2%) 
+edges                46404/256000     185616/1024000  (18.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        137/16384       12056/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            969/131072       9690/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18801/131072      37602/262144   (14.3%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     7136024/0        ( 0.0%) 
+visdata               [variable]      365895/16777216 ( 2.2%) 
+entdata               [variable]      121855/393216   (31.0%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     14891/65536      416948/1835008  (22.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/33289    ( 0.0%) 
+static props          [variable]           1/122038   ( 0.0%) 
+pakfile               [variable]    10480230/0        ( 0.0%) 
+physics               [variable]      978545/4194304  (23.3%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26444
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 57 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 44
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (988260 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4465 texinfos to 3257
+Reduced 259 texdatas to 241 (7845 bytes to 7143)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5251776, actual size 5226504
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1272 portalclusters
+3815 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 70127 visible clusters (0.00%)
+Total clusters visible: 947935
+Average clusters visible: 745
+Building PAS...
+Average clusters audible: 1218
+visdatasize:373091  compressed from 407040
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9063 faces
+8 degenerate faces
+1730205 square feet [249149536.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9055 patches before subdivision
+zero area child patch
+135069 patches after subdivision
+137 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14105608, max 1022
+transfer lists: 107.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(315356, 307911, 300443)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(78058, 68413, 55590)
+Build Patch/Sample Hash Table(s).....Done<0.0373 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  22/4096         1056/196608   ( 0.5%) 
+brushes               2750/32768       33000/393216   ( 8.4%) 
+brushsides           20609/65536      164872/524288   (31.4%) 
+planes               12414/65536      248280/1310720  (18.9%) 
+vertexes             14704/65536      176448/786432   (22.4%) 
+nodes                 2977/65536       95264/2097152  ( 4.5%) 
+texinfos              3257/12288      234504/884736   (26.5%) 
+texdata                241/2048         7712/65536    (11.8%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9063/65536      507528/3670016  (13.8%) 
+hdr faces             9063/65536      507528/3670016  (13.8%) 
+origfaces             7092/65536      397152/3670016  (10.8%) 
+leaves                3000/65536       96000/2097152  ( 4.6%) 
+leaffaces            11642/65536       23284/131072   (17.8%) 
+leafbrushes           5697/65536       11394/131072   ( 8.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            73118/512000     292472/2048000  (14.3%) 
+edges                46549/256000     186196/1024000  (18.2%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        137/16384       12056/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            971/131072       9710/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18816/131072      37632/262144   (14.4%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     7155424/0        ( 0.0%) 
+visdata               [variable]      373091/16777216 ( 2.2%) 
+entdata               [variable]      124019/393216   (31.5%) 
+LDR ambient table     3000/65536       12000/262144   ( 4.6%) 
+HDR ambient table     3000/65536       12000/262144   ( 4.6%) 
+LDR leaf ambient      3000/65536       84000/1835008  ( 4.6%) 
+HDR leaf ambient     15157/65536      424396/1835008  (23.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/33309    ( 0.0%) 
+static props          [variable]           1/121572   ( 0.0%) 
+pakfile               [variable]    10451876/0        ( 0.0%) 
+physics               [variable]      988260/4194304  (23.6%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26522
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+2 minutes, 3 seconds elapsed
+
+
+
+ConVarRef mat_fullbright doesn't point to an existing ConVar
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.vmf
+Map revision 52
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/aaaa" not found.
+Material not found!: /AAAA
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest005_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendrockgroundwallforest004_wvt_patch
+Patching WVT material: maps/dm_nzhollow/nature/blendgroundtomud001_wvt_patch
+Patching WVT material: maps/dm_nzhollow/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1708 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (998002 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4517 texinfos to 3274
+Reduced 263 texdatas to 244 (7953 bytes to 7230)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Wrote ZIP buffer, estimated size 5252249, actual size 5226843
+17 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.prt
+1294 portalclusters
+3878 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 71003 visible clusters (0.00%)
+Total clusters visible: 970149
+Average clusters visible: 749
+Building PAS...
+Average clusters audible: 1223
+visdatasize:385832  compressed from 434784
+writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01.vtf
+Loaded alpha texture materials\models\props_foliage\tree_pine01_snow.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+9138 faces
+8 degenerate faces
+2548324 square feet [366958656.00 square inches]
+204 Displacements
+330499 Square Feet [47591952.00 Square Inches]
+9130 patches before subdivision
+zero area child patch
+136002 patches after subdivision
+137 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14041425, max 1019
+transfer lists: 107.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(314312, 306746, 299170)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77721, 68108, 55337)
+Build Patch/Sample Hash Table(s).....Done<0.0350 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 10 (40% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  31/4096         1488/196608   ( 0.8%) 
+brushes               2772/32768       33264/393216   ( 8.5%) 
+brushsides           20754/65536      166032/524288   (31.7%) 
+planes               12552/65536      251040/1310720  (19.2%) 
+vertexes             14844/65536      178128/786432   (22.7%) 
+nodes                 3081/65536       98592/2097152  ( 4.7%) 
+texinfos              3274/12288      235728/884736   (26.6%) 
+texdata                244/2048         7808/65536    (11.9%) 
+dispinfos              204/0           35904/0        ( 0.0%) 
+disp_verts           11876/0          237520/0        ( 0.0%) 
+disp_tris            18144/0           36288/0        ( 0.0%) 
+disp_lmsamples      577284/0          577284/0        ( 0.0%) 
+faces                 9138/65536      511728/3670016  (13.9%) 
+hdr faces             9138/65536      511728/3670016  (13.9%) 
+origfaces             7132/65536      399392/3670016  (10.9%) 
+leaves                3113/65536       99616/2097152  ( 4.8%) 
+leaffaces            11725/65536       23450/131072   (17.9%) 
+leafbrushes           5734/65536       11468/131072   ( 8.7%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges            73612/512000     294448/2048000  (14.4%) 
+edges                46815/256000     187260/1024000  (18.3%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        137/16384       12056/1441792  ( 0.8%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            974/131072       9740/1310720  ( 0.7%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         18873/131072      37746/262144   (14.4%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               146/1024        51392/360448   (14.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     7161096/0        ( 0.0%) 
+visdata               [variable]      385832/16777216 ( 2.3%) 
+entdata               [variable]      163465/393216   (41.6%) 
+LDR ambient table     3113/65536       12452/262144   ( 4.8%) 
+HDR ambient table     3113/65536       12452/262144   ( 4.8%) 
+LDR leaf ambient      3113/65536       87164/1835008  ( 4.8%) 
+HDR leaf ambient     15929/65536      446012/1835008  (24.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/450784   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/33299    ( 0.0%) 
+static props          [variable]           1/122372   ( 0.0%) 
+pakfile               [variable]    10516463/0        ( 0.0%) 
+physics               [variable]      998002/4194304  (23.8%) 
+physics terrain       [variable]       52926/1048576  ( 5.0%) 
+
+Level flags = 2
+
+Total triangle count: 26708
+Writing c:\program files (x86)\steam\steamapps\sourcemods\open_fortress\custom\nzombies_example_base\maps\dm_nzhollow.bsp
+1 minute, 42 seconds elapsed

@@ -1,0 +1,11 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"concrete/rubblefloor002"
+	"$bumpmap" "Concrete/rubblefloor001_height-ssbump"
+        "$ssbump" "1"
+	"%keywords" "tf, frontline"
+	"$detail" "overlays/detail001"
+	"$detailscale" "1.9"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+}

@@ -1,0 +1,151 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress_zombies\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress_zombies\maps\dm_nz_harvest_tezt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/dm_nz_harvest_tezt/harvest/ground_to_green_grass_001_nosprites_wvt_patch
+Patching WVT material: maps/dm_nz_harvest_tezt/harvest/ground_to_green_grass_001_wvt_patch
+Patching WVT material: maps/dm_nz_harvest_tezt/harvest/ground_to_green_grass_002_wvt_patch
+Patching WVT material: maps/dm_nz_harvest_tezt/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1166 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress_zombies\maps\dm_nz_harvest_tezt.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1129147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3643 texinfos to 2761
+Reduced 93 texdatas to 77 (2348 bytes to 1707)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress_zombies\maps\dm_nz_harvest_tezt.bsp
+Wrote ZIP buffer, estimated size 6387, actual size 4833
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress_zombies\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress_zombies\maps\dm_nz_harvest_tezt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/dm_nz_harvest_tezt/harvest/ground_to_green_grass_001_nosprites_wvt_patch
+Patching WVT material: maps/dm_nz_harvest_tezt/harvest/ground_to_green_grass_001_wvt_patch
+Patching WVT material: maps/dm_nz_harvest_tezt/harvest/ground_to_green_grass_002_wvt_patch
+Patching WVT material: maps/dm_nz_harvest_tezt/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity of_bot_spawner (-320.00 -3904.00 -888.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 3072.0 -704.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 2560.0 -704.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 1536.0 -704.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 3072.0 -704.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0 3072.0 -704.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 512.0 -704.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -512.0 -704.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 -1536.0 -704.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1166 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1129211 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3643 texinfos to 2764
+Reduced 93 texdatas to 77 (2348 bytes to 1707)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress_zombies\maps\dm_nz_harvest_tezt.bsp
+Wrote ZIP buffer, estimated size 6387, actual size 4833
+6 seconds elapsed

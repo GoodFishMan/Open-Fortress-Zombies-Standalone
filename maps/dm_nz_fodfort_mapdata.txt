@@ -1,0 +1,812 @@
+"MapData"
+{
+	"BotTemplates"
+	{
+		"MVM_Demo"
+		{
+			"Team" 		"Blue"
+			"Class" 	"Demoman"
+			"Weapons" 	"tf_weapon_grenadelauncher_single"
+			"Health"	"90"
+			"Speed"		"100"
+			"Cosmetics"	"5"
+			"Model" 	"models/bots/demo/bot_demo.mdl"
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"robot"
+			}
+		}
+		
+		"MVM_Soldier"
+		{
+			"Team" 		"Blue"
+			"Class" 	"Soldier"
+			"Weapons" 	"tf_weapon_rocketlauncher_single"
+			"Health"	"90"
+			"Speed"		"100"
+			"Cosmetics"	"5"
+			"Model" 	"models/bots/soldier/bot_soldier.mdl"
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"robot"
+			}
+		}
+		
+		"MVM_Scout"
+		{
+			"Team" 		"Blue"
+			"Class" 	"Scout"
+			"Weapons" 	"tf_weapon_bat"
+			"Health"	"30"
+			"Speed"		"300"
+			"Cosmetics"	"51 21 20"
+			"Model" 	"models/bots/scout/bot_scout.mdl"
+			
+			"DropItems"
+			{
+				"item_healthkit_small"	"teamnum 2"
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"robot"
+			}
+		}
+
+		"MVM_Giant"
+		{
+			"Team" 		 "Blue"
+			"Class" 	 "heavyweapons"
+			"Weapons" 	 "tf_weapon_big_shotgun"
+			"Health"	 "500"
+			"Speed"		 "100"
+			"ModelScale" "2"
+			"Cosmetics"	  "66 68"
+			"Model"			"models/bots/heavy/bot_heavy.mdl"
+			
+			"DropItems"
+			{
+				"dm_weapon_spawner" "teamnum 2 weaponname tf_weapon_big_shotgun_reward"
+				"item_ammopack_medium"	"teamnum 2"
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"robot"
+			}
+		}
+		
+		"zombielv1"
+		{
+			"Name"		"Zombielv1"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"40"
+			"Speed"		"100"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv2"
+		{
+			"Name"		"Zombielv2"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"60"
+			"Speed"		"100"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv3"
+		{
+			"Name"		"Zombielv3"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"80"
+			"Speed"		"120"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv3_fast"
+		{
+			"Name"		"Zombielv3"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"80"
+			"Speed"		"160"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv4"
+		{
+			"Name"		"Zombielv4"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"100"
+			"Speed"		"160"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv4_fast"
+		{
+			"Name"		"Zombielv4"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"100"
+			"Speed"		"180"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv5"
+		{
+			"Name"		"Zombielv5"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"120"
+			"Speed"		"140"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv5_fast"
+		{
+			"Name"		"Zombielv5"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"120"
+			"Speed"		"180"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		"skeletonlv1" // Dogs
+		{
+			"Name"		"skeleton"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_skeleton"
+			"Health"	"20"
+			"Speed"		"350"
+			"ModelScale" 	"0.6"
+			"Cosmetics"	"0"
+			"Model" 	"models/bots/skeleton_sniper/skeleton_sniper.mdl"
+
+			"DropItems"
+			{
+				"item_ammopack_small"	"teamnum 2"
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		"skeletonlv2"
+		{
+			"Name"		"skeleton"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_skeleton"
+			"Health"	"30"
+			"Speed"		"350"
+			"ModelScale" 	"0.6"
+			"Cosmetics"	"0"
+			"Model" 	"models/bots/skeleton_sniper/skeleton_sniper.mdl"
+
+			"DropItems"
+			{
+				"item_ammopack_small"	"teamnum 2"
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+				"skeletonlv3"
+		{
+			"Name"		"skeleton"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_skeleton"
+			"Health"	"40"
+			"Speed"		"350"
+			"ModelScale" 	"0.6"
+			"Cosmetics"	"0"
+			"Model" 	"models/bots/skeleton_sniper/skeleton_sniper.mdl"
+
+			"DropItems"
+			{
+				"item_ammopack_small"	"teamnum 2"
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv6"
+		{
+			"Name"		"Zombielv6"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"140"
+			"Speed"		"150"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv6_fast"
+		{
+			"Name"		"Zombielv6"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"140"
+			"Speed"		"200"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv7"
+		{
+			"Name"		"Zombielv7"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"160"
+			"Speed"		"160"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv7_fast"
+		{
+			"Name"		"Zombielv7"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"160"
+			"Speed"		"200"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv8"
+		{
+			"Name"		"Zombielv8"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"180"
+			"Speed"		"170"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv8_fast"
+		{
+			"Name"		"Zombielv8"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"180"
+			"Speed"		"200"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+				"zombielv8_boss"
+		{
+			"Name"		"Zombie Boss"
+			"Team" 		"Blue"
+			"Class" 	"Mercenary"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"5000"
+			"Speed"		"350"
+			"ModelScale" "1.15"
+			"Cosmetics"	"7.00 25.00 27.00 70.01 44.00 69.00 54.00"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+				"dm_weapon_spawner" "teamnum 2 weaponname tf_weapon_gatlinggun"
+				"item_ammopack_large"	"teamnum 2"
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Robot"
+			}
+		}
+
+		"zombielv9"
+		{
+			"Name"		"Zombielv9"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"200"
+			"Speed"		"180"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv9_fast"
+		{
+			"Name"		"Zombielv9"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"200"
+			"Speed"		"210"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+			
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv10"
+		{
+			"Name"		"Zombielv10"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"220"
+			"Speed"		"200"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv10_fast"
+		{
+			"Name"		"Zombielv10"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"220"
+			"Speed"		"240"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+		
+		"zombielv10_Boss"
+		{
+			"Name"		"Zombielv10"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"1000"
+			"Speed"		"280"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		//Mult HP by 1.1
+
+		"zombielv11"
+		{
+			"Name"		"Zombielv11"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"264"
+			"Speed"		"240"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv12"
+		{
+			"Name"		"Zombielv12"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"290"
+			"Speed"		"320"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv13"
+		{
+			"Name"		"Zombielv13"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"319"
+			"Speed"		"320"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv14"
+		{
+			"Name"		"Zombielv14"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"351"
+			"Speed"		"320"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv15"
+		{
+			"Name"		"Zombielv15"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"387"
+			"Speed"		"320"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv16"
+		{
+			"Name"		"Zombielv16"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"425"
+			"Speed"		"320"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv17"
+		{
+			"Name"		"Zombielv17"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"468"
+			"Speed"		"320"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		
+		"zombielv18"
+		{
+			"Name"		"Zombielv18"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"514"
+			"Speed"		"320"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv19"
+		{
+			"Name"		"Zombielv19"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"565"
+			"Speed"		"320"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+
+		"zombielv20"
+		{
+			"Name"		"Zombielv20"
+			"Team" 		"Blue"
+			"Class" 	"Pyro"
+			"Weapons" 	"tf_weapon_zombie1"
+			"Health"	"622"
+			"Speed"		"320"
+			"Cosmetics"	"0"
+			"Model" 	"models/player/zombie/Mercenary_zombie.mdl"
+
+			"DropItems"
+			{
+
+			}
+			
+			"ResponseCriteria"
+			{
+				"playermutator"	"Zombie"
+			}
+		}
+	}
+}

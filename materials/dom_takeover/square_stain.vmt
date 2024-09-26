@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dom_takeover/square_stain"
+	"%keywords" "tf"
+	"$translucent"	"1"
+	"$decal"	"1"
+	"$decalscale" ".25"
+}

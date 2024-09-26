@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "Concrete/fortwall008"
+                "$bumpmap" "brick\wornstone003_ssbump"
+	 "$ssbump" "1"
+	"%keywords" "tf, frontline"
+	"$detail" "overlays/detail001"
+	"$detailscale" "1.9"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+}

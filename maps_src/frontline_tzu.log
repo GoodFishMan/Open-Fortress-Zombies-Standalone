@@ -1,0 +1,543 @@
+
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading F:\Dropbox\TopHorse\Frontline_Supply_Drop_v1.3\mapsrc\frontline_tzu.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground007a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground001"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground001a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground002a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground002"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground003"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground003a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground006"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground006a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground005a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground005"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground004a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground004"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground007"!
+Error! Variable "%keywords" is multiply defined in material "nature/beachgrass001"!
+Error! Variable "%keywords" is multiply defined in material "nature/beachgrass002"!
+Error! Variable "%keywords" is multiply defined in material "nature/battlefieldgrass001"!
+Error! Variable "%keywords" is multiply defined in material "nature/fallgrass001"!
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground007_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground007a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground009_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground009a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground010_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground010a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground012_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground012a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground013_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground013a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground014a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground014_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass002_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass001_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground015_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground015a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground016_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground016a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass001_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground017_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground017a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble006_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtodeadgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtodeadgrass001-nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtoriverbed001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-2064.00 -4496.00 96.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9264.0 2048.0 816.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9328.0 2048.0 816.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9792.0 2048.0 816.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 2560.0 816.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9760.0 3072.0 816.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9248.0 3072.0 816.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0 2048.0 816.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0 3072.0 816.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_earlymorning_02 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_earlymorning_02 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_earlymorning_02 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_earlymorning_02 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/birch_groundleaves_0_pile at -1936.0 -5040.0 0.0
+
+
+16 threads
+reading f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+Error opening f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+Error opening f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading F:\Dropbox\TopHorse\Frontline_Supply_Drop_v1.3\mapsrc\frontline_tzu.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground007a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground001"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground001a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground002a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground002"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground003"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground003a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground006"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground006a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground005a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground005"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground004a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground004"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground007"!
+Error! Variable "%keywords" is multiply defined in material "nature/beachgrass001"!
+Error! Variable "%keywords" is multiply defined in material "nature/beachgrass002"!
+Error! Variable "%keywords" is multiply defined in material "nature/battlefieldgrass001"!
+Error! Variable "%keywords" is multiply defined in material "nature/fallgrass001"!
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground007_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground007a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground009_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground009a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground010_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground010a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground012_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground012a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground013_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground013a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground014a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground014_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass002_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass001_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground015_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground015a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground016_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground016a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass001_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground017_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground017a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble006_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtodeadgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtodeadgrass001-nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtoriverbed001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Dropbox\TopHorse\Frontline_Supply_Drop_v1.3\mapsrc\frontline_tzu.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/birch_groundleaves_0_pile at -1936.0 -5040.0 0.0
+
+
+16 threads
+reading f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+Error opening f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+Error opening f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading F:\Dropbox\TopHorse\Frontline_Supply_Drop_v1.3\mapsrc\frontline_tzu.vmf
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground007a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground001"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground001a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground002a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground002"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground003"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground003a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground006"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground006a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground005a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground005"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground004a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground004"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground007"!
+Error! Variable "%keywords" is multiply defined in material "nature/beachgrass001"!
+Error! Variable "%keywords" is multiply defined in material "nature/beachgrass002"!
+Error! Variable "%keywords" is multiply defined in material "nature/battlefieldgrass001"!
+Error! Variable "%keywords" is multiply defined in material "nature/fallgrass001"!
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground007_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground007a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground009_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground009a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground010_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground010a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground012_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground012a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground013_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground013a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground014a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground014_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass002_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass001_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground015_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground015a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground016_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground016a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass001_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground017_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground017a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble006_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtodeadgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtodeadgrass001-nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtoriverbed001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Dropbox\TopHorse\Frontline_Supply_Drop_v1.3\mapsrc\frontline_tzu.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/birch_groundleaves_0_pile at -1936.0 -5040.0 0.0
+
+
+16 threads
+reading f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+Error opening f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+Error opening f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+
+
+materialPath: H:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading F:\Dropbox\TopHorse\Frontline_Supply_Drop_v1.3\mapsrc\frontline_tzu.vmf
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground007a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground001"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground001a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground002a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground002"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground003"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground003a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground006"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground006a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground005a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground005"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground004a"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground004"!
+Error! Variable "%keywords" is multiply defined in material "nature/wetmudground007"!
+Error! Variable "%keywords" is multiply defined in material "nature/beachgrass001"!
+Error! Variable "%keywords" is multiply defined in material "nature/beachgrass002"!
+Error! Variable "%keywords" is multiply defined in material "nature/battlefieldgrass001"!
+Error! Variable "%keywords" is multiply defined in material "nature/fallgrass001"!
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground001b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground002b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground003b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground004b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground005b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground006b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground007_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground007a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground008b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground009_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground009a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground010_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground010a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011b_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground011a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground012_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground012a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground013_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground013a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground014a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground014_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass002_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobeachgrass001_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground015_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground015a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground016_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground016a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass001_nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass002_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass003_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground017_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendwetmudground017a_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendbeachgrasstocobble006_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass004_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtobattlefieldgrass005_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtodeadgrass001_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtodeadgrass001-nodetail_wvt_patch
+Patching WVT material: maps/frontline_tzu/nature/blendgroundtoriverbed001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Dropbox\TopHorse\Frontline_Supply_Drop_v1.3\mapsrc\frontline_tzu.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (35122 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDGROUNDTOBEACHGRASS001 uses unknown detail object type tf_beach_grass!
+Material NATURE/BLENDGROUNDTOBEACHGRASS002 uses unknown detail object type tf_beach_grass!
+Material NATURE/BLENDBEACHGRASSTOCOBBLE002 uses unknown detail object type tf_beach_grass!
+Material NATURE/BLENDBEACHGRASSTOCOBBLE001 uses unknown detail object type tf_beach_grass!
+Material NATURE/BLENDBEACHGRASSTOCOBBLE003 uses unknown detail object type tf_beach_grass!
+Material NATURE/BLENDGROUNDTOBATTLEFIELDGRASS001 uses unknown detail object type tf_battlefield_grass!
+Material NATURE/BLENDGROUNDTOBATTLEFIELDGRASS002 uses unknown detail object type tf_battlefield_grass!
+Material NATURE/BLENDGROUNDTOBATTLEFIELDGRASS003 uses unknown detail object type tf_battlefield_grass!
+Material NATURE/BLENDGROUNDTODEADGRASS001 uses unknown detail object type tf_forest_grass_fall!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 485 texinfos to 196
+Reduced 304 texdatas to 176 (13077 bytes to 7326)
+Writing F:\Dropbox\TopHorse\Frontline_Supply_Drop_v1.3\mapsrc\frontline_tzu.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'F:\Dropbox\TopHorse\Frontline_Supply_Drop_v1.3\mapsrc\frontline_tzu.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 76317, actual size 58951
+11 seconds elapsed
+
+
+
+16 threads
+reading f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.bsp
+reading f:\dropbox\tophorse\frontline_supply_drop_v1.3\mapsrc\frontline_tzu.prt
+ 608 portalclusters
+1681 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8..
