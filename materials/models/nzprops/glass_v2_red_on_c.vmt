@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models/nzprops/glass_v2_red_on_c"
+     "$model" 1
+	 "$selfillum" 1
+}

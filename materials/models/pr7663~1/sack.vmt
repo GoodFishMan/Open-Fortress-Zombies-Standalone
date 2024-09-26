@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// this vmt is indeed meant to be in this folder. blame valve.
+	"$basetexture" "Models/props_gameplay/sack"
+	"$bumpmap" "Models/props_gameplay/sack_normal"
+	"$nodecal" "1"
+}
