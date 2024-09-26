@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"medieval/brickbeam002b"
+	"$bumpmap"	"medieval/brickbeam002b_height-ssbump"
+	"$ssbump"	"1"
+	"$surfaceprop"	"concrete"
+	"%keywords"	"tf, frontline"
+}

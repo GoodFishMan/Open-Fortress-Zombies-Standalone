@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "glass/medievalglass001"
+	"$surfaceprop" "glass"
+	"$basealphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5 .5 .5]"
+	"%keywords" "tf, frontline"
+}

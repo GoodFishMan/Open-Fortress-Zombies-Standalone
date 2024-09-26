@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture"	"metal/razorwire002"
+	"$surfaceprop" "metal"
+	"$translucent" 1 
+	"$nocull" 1 
+	"$nodecal" 1
+	"%keywords" "tf, frontline"
+}

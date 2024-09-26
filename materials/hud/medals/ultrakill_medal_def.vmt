@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+      "$basetexture" "HUD/medals/ultrakill_medal"
+      "$translucent" "1"
+
+      "$ignorez" "1"
+		"$distancealpha" "1"
+		"$vertexalpha" "1"
+}

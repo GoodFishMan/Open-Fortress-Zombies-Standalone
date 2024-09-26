@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/bunkermetal001c"
+	"$bumpmap" "Metal/bunkermetal001_height-ssbump"
+       	 "$ssbump" "1"
+	"$surfaceprop" "metal"
+	"%keywords" "tf, frontline"
+}

@@ -1,0 +1,132 @@
+"Refract"
+{
+	<dx90
+	{
+		 	"$fallbackmaterial" "effects/berserk_overlay_dx80"
+	}
+
+	"%keywords" "tf"
+	"$forcerefract" "1"
+	"$refractamount" ".02"
+	"$model" "1"
+	"$refracttint" "{0 255 0}"
+	"$refracttint_constant" "[1 1 1]"
+	"$refracttint_add" "[0 2 0]"
+	"$normalmap" "effects/berserk_overlay_normal"
+	"$translate" "[0 0]"
+	"$angle" "[0]"
+	"$center" "[.5 .5]"
+	"$scale" "[.75 .75]"
+
+	"$colourred"	"{255 0 0}"
+	"$colourgreen"	"{0 255 0}"
+	"$colourresult"	"{255 255 255}"
+	"$sinecolour"	"0"
+	"$lerpred"	"0"
+	"$lerpgreen"	"0"
+	"$resultred"	"{255 0 0}"
+	"$resultgreen"	"{0 255 0}"
+	"$one"		"1"
+
+	"$bumpframe" "0"
+	"$bluramount" "1"
+	"$refracttinttexture" "effects/invulnoverlay/invuln_overlay"
+	"Proxies"
+	{
+
+		// sinecolour = Sine 0 to 1
+		"Sine"
+		{
+			"sinemax" "1"
+			"sinemin" "0"
+			"sineperiod" ".11"
+			"resultvar" "$sinecolour"
+		}
+		// 1 - sinecolour
+		"Subtract"
+		{
+			"srcVar1"		"$one"
+			"srcVar2"		"$sinecolour"
+			"resultVar"	"$lerpred"
+		}
+		// copy sincolour -> lerpgreen
+		"SelectFirstIfNonZero"
+		{
+			"srcVar1"		"$sinecolour"
+			"srcVar2"		"$sinecolour"
+			"resultVar"	"$lerpgreen"
+		}
+		// resultgreen = colourgreen*lerpgreen 
+		// resultred = colourred*lerpred
+		// colourwhite = resultgreen + resultren
+		"Multiply"
+		{
+			"srcVar1"		"$colourgreen"
+			"srcVar2"		"$lerpgreen"
+			"resultVar"	"$resultgreen"
+		}
+		"Multiply"
+		{
+			"srcVar1"		"$colourred"
+			"srcVar2"		"$lerpred"
+			"resultVar"	"$resultred"
+		}
+		"Add"
+		{
+			"srcVar1"		"$resultgreen"
+			"srcVar2"		"$resultred"
+			"resultVar"	"$colourresult"
+		}
+
+
+		"SelectFirstIfNonZero"
+		{
+			"srcVar1"		"$lerpgreen"
+			"srcVar2"		"$lerpgreen"
+			"resultVar"		"$refracttint"
+		}
+		"Sine"
+		{
+			"sinemax" ".1"
+			"sinemin" "-.1"
+			"sineperiod" ".81"
+			"resultvar" "$refractamount"
+		}
+		"Sine"
+		{
+			"sinemax" ".65"
+			"sinemin" ".45"
+			"sineperiod" ".81"
+			"resultvar" "$refracttint[1]"
+		}
+		"Sine"
+		{
+			"sinemax" ".65"
+			"sinemin" ".06"
+			"sineperiod" ".81"
+			"resultvar" "$refracttint[2]"
+		}
+		"Sine"
+		{
+			"sinemax" ".95"
+			"sinemin" "1"
+			"sineperiod" ".81"
+			"resultvar" "$scale"
+		}
+		"Multiply"
+		{
+			"srcVar1"		"$refracttint"
+			"srcVar2"		"$refracttint_add"
+			"resultVar"		"$refracttint"
+		}
+		"TextureTransform"
+		{
+			"translateVar" "$translate"
+			"rotateVar" "$angle"
+			"centerVar" "$center"
+			"scaleVar" "$scale"
+			"resultVar" "$bumptransform"
+		}
+	}
+
+}

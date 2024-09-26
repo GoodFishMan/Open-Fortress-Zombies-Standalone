@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hud/hud_select_blood_fliped"
+	"$translucent" 1
+}
