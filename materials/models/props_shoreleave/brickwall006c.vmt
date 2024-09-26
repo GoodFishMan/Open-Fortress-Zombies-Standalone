@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "Brick/brickwall006c"
+	// $bumpmap "Brick/brickwall002_height-ssbump"
+
+
+	"$model" 1
+
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "Metal/Imetal003"
+	//$bumpmap "Metal/Imetal001_normal"
+
+	"$color2" "{80 80 80}"
+	"$model" 1
+	"$surfaceprop" "metal"
+
+}

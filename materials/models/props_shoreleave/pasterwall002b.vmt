@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "medieval/pasterwall002b"
+
+
+	"$model" 1
+	"$surfaceprop" "concrete"
+
+}

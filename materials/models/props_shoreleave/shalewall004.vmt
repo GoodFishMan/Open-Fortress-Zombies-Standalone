@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "brick/shalewall005a"
+
+
+	"$model" 1
+	"$surfaceprop" "rock"
+
+}

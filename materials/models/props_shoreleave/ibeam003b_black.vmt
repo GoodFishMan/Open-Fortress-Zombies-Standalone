@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "Metal/Ibeam003b"
+
+	"$color2" "{80 80 80}"
+	"$model" 1
+	"$surfaceprop" "metal"
+
+}

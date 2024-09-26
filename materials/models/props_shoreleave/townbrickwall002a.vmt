@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "concrete\townbrickwall002a"
+    //            "$bumpmap" "concrete\townbrickwall001_height-ssbump"
+}

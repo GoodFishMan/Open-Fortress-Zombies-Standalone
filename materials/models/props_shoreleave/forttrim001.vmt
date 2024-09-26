@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "concrete/forttrim001"
+	//$bumpmap "Concrete/forttrim001_height-ssbump"
+
+
+	"$model" 1
+	"$surfaceprop" "rock"
+
+}

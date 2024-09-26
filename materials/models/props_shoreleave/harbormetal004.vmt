@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "Metal/harbormetal004"
+	//$bumpmap "Metal/harbormetal001_height-ssbump"
+
+
+	"$model" 1
+	"$surfaceprop" "metal"
+
+}

@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+
+	$basetexture "glass/medievalglass002"
+
+
+	"$model" 1
+	"$surfaceprop" "glass"
+
+	 $envmaptint "[0.5 0.5 0.5]"
+	 $envmapcontrast "0.0"
+	 $envmapsaturation "1.0"
+}

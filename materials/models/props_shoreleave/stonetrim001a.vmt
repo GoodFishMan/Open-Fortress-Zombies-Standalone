@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "medieval/stonetrim001a"
+	// $bumpmap "medieval/stonetrim001a_ssbump"
+
+
+	"$model" 1
+	"$surfaceprop" "concrete"
+
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "Concrete/concretewall004b"
+	//$bumpmap "concrete/concretewall004a_normal"
+
+
+	"$model" 1
+	"$surfaceprop" "concrete"
+
+}

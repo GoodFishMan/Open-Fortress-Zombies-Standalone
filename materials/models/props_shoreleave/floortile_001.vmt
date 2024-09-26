@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "soho/FloorTile_001"
+	// $bumpmap "Tile/floor_tile_006a_normal"
+
+
+	"$model" 1
+	"$surfaceprop" "tile"
+
+}
