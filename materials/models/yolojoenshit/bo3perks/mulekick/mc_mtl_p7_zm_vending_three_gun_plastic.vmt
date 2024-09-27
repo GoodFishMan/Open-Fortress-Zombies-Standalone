@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/mulekick/mc_mtl_p7_zm_vending_three_gun_plastic"
+	"$bumpmap" "models/yolojoenshit/bo3perks/mulekick/normal_mk"
+	"$translucent" 1
+	"$surfaceprop" "Metal"
+	"$selfillum" 1
+}

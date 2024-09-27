@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/juggernog/mc_mtl_p7_zm_vending_jugg_top"
+	"$bumpmap" "models/yolojoenshit/bo3perks/juggernog/mc_mtl_p7_zm_vending_jugg_top_n"
+	"$surfaceprop" "Metal"
+	"$alphatest" "0" 
+	"$nocull" 1
+	"$halflambert" 0
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost" "5"
+	"$phongexponenttexture" "models/yolojoenshit/bo3perks/juggernog/mc_mtl_p7_zm_vending_jugg_top_g"
+	"$phongexponent" "20"
+	$phongfresnelranges "[.3 .65 10]"
+
+	// Begin GOLD look
+	"$envmap" "env_cubemap"	
+	"$envmaptint" "[.2 .2 .2]"	
+
+	"$AmbientOcclusion" "1"
+	"$AmbientOcclTexture" "models/yolojoenshit/bo3perks/juggernog/mc_mtl_p7_zm_vending_jugg_top_o"
+}

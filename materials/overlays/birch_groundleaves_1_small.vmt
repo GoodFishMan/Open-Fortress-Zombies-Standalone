@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "overlays/birch_groundleaves_1_small"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$translucent" 1
+	"%keywords" "tf,frontline,tree"
+}

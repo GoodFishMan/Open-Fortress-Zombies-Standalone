@@ -1,0 +1,8 @@
+"LightMappedGeneric"
+{
+$basetexture "overlays/oil_spill_3"
+	"$decal" "1"
+	"$decalscale" ".25"
+$translucent 1
+
+}

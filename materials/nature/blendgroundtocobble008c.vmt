@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/dirtground009"
+	"$basetexture2" "medieval/cobblestone006c"
+	"%tooltexture" "nature/blendgroundtocobble008c_tooltexture"
+	"$blendmodulatetexture" "medieval/cobblestone006_blendmask"
+	"$bumpmap" "Nature/dirtground005_height-ssbump"
+	"$bumpmap2" "Nature/rockground002_height-ssbump"
+//	"%detailtype" "tf_forest_grass"
+	"$ssbump" "1"
+	"$surfaceprop" "dirt"
+	"%keywords" "tf, frontline"
+}

@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/grass_07"
+	"$basetexture2" "medieval/cobblestone006b"
+	"$bumpmap" "Nature/dirtground001_height-ssbump"
+	"$bumpmap2" "Nature/rockground002_height-ssbump"
+	"$ssbump" "1"
+	"$surfaceprop2" "dirt"
+	"$surfaceprop" "grass"
+	"$blendmodulatetexture" "medieval/cobblestone006_blendmask-grass"
+	"%keywords" "tf, frontline"
+	"%tooltexture" "nature/blendgroundtocobble009d_tooltexture"
+}

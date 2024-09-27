@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/deadshot/i_mtl_p7_zm_vending_ads_logo_c"
+	"$surfaceprop" "Metal"
+
+	"$detail" "models/yolojoenshit/bo3perks/deadshot/i_t7_glass_dirty_streaks_c"
+	"$detailscale" "1"
+
+	  $phong 1
+	  $phongboost 50
+	  $phongexponent 200	
+	  $phongfresnelranges		"[0 0.5 1]"
+}

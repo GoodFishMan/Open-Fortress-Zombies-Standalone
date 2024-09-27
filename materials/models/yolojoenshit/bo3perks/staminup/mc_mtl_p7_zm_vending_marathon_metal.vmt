@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/staminup/mc_mtl_p7_zm_vending_marathon_paint_detail"
+	"$bumpmap" "models/yolojoenshit/bo3perks/mulekick/normal_mk"
+	"$surfaceprop" "Metal"
+	"$basemapalphaphongmask" "1"
+
+	"$detail" "models/yolojoenshit/bo3perks/staminup/mc_mtl_p7_zm_vending_marathon_metal"
+	"$detailscale" "1"
+
+	"$phong" "1"
+	"$phongexponent" "125"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[.25 .5 1]"
+
+	// Begin GOLD look
+	"$envmap" "env_cubemap"	
+	"$envmaptint" "[.5 .5 .5]"
+	"$basealphaenvmapmask" "1"	
+
+	"$glowcolor" "0"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" "2"
+
+
+}

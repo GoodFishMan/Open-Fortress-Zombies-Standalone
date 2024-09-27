@@ -1,0 +1,19 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/rockwall_shoreleave01"
+	"$basetexture2" "egypt/sand_floor_05"
+	
+	"$bumpmap" "Nature/rockwall003_normal"
+	"$bumpmap2" "Nature/dirtground001_height-ssbump"
+	"$ssbump" "1"
+	
+	"$blendmodulatetexture" "winter/snowgravelblend"
+	
+	"%keywords" "tf, frontline"
+	"$surfaceprop" "rock"
+	"$surfaceprop2" "dirt"
+	"$detail" "overlays/detail004"
+	"$detailscale" "1.2"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+}

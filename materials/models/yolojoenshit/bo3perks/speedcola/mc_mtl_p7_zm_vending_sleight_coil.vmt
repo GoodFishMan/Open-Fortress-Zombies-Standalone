@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/speedcola/mc_mtl_p7_zm_vending_sleight_coil"
+	"$surfaceprop" "Metal"
+	"$translucent" "1"
+	"$alphatest"  "0" 
+}

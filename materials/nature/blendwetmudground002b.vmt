@@ -1,0 +1,16 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/wetmudground002a"
+	"$basetexture2" "Nature/dirtground009"
+	"$blendmodulatetexture" "Nature/snowgrass_blendmask"
+	"$bumpmap" "Nature/wetmudground001a_height-ssbump"
+	"$bumpmap2" "Nature/dirtground001_height-ssbump_env"
+                "$ssbump" "1"
+	"$surfaceprop" "dirt"
+	"%tooltexture" "Nature/blendwetmudground002b_tooltexture"
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+
+	"%keywords" "tf, frontline"
+}

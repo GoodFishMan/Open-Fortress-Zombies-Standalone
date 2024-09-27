@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"props/sandbags001"
+	"$bumpmap"	"props/sandbags001_height-ssbump"
+	"$ssbump"	"1"
+	"$surfaceprop"	"sand"
+	"%keywords"	"tf, frontline"
+}

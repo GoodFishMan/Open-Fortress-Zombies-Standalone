@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/speedcola/mc_mtl_p7_zm_vending_sleight"
+	"$bumpmap" "models/yolojoenshit/bo3perks/speedcola/mc_mtl_p7_zm_vending_sleight_normal"
+	"$surfaceprop" "Metal"
+	  $phong 1
+	  $phongboost 50
+	  $phongexponent 200	
+	  $phongfresnelranges		"[0 0.5 1]"
+}

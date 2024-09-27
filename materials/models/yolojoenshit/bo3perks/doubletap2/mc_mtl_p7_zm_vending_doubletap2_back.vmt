@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/doubletap2/mc_mtl_p7_zm_vending_doubletap2_back"
+	"$bumpmap" "models/yolojoenshit/bo3perks/doubletap2/mc_mtl_p7_zm_vending_doubletap2_back_n"
+	"$surfaceprop" "Metal"
+
+	// Begin GOLD look
+	"$envmap" "env_cubemap"	
+	"$envmaptint" "[.5 .5 .5]"	
+
+	  $phong 1
+	  $phongboost 50
+	  $phongexponent 200	
+	  $phongfresnelranges		"[0 0.5 1]"
+}

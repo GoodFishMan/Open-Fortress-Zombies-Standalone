@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/perkbottle/mc_mtl_wpn_t7_zmb_perk_bottle_paper_stimup"
+	"$bumpmap" "models/yolojoenshit/bo3perks/perkbottle/mc_mtl_wpn_t7_zmb_perk_bottle_paper_n"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+	"$ambientocclusion" 0
+	  $phong 1
+	  $phongboost 50
+	  $phongexponent 200	
+	  $phongfresnelranges		"[0 0.5 1]"
+}

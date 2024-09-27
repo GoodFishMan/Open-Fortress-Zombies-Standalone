@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/mulekick/mc_mtl_p7_zm_vending_three_gun_metal_01_bld"
+	"$bumpmap" "models/yolojoenshit/bo3perks/mulekick/normal_mk"
+	"$surfaceprop" "Metal"
+
+	"$phong" "1"
+	"$phongexponent" "125"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[.25 .5 1]"
+
+	// Begin GOLD look
+	"$envmap" "env_cubemap"	
+	"$envmaptint" "[.05 .05 .05]"
+	"$glowcolor" "0"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" "2"
+

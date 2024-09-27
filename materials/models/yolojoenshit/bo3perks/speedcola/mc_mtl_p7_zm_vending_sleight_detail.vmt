@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/speedcola/mc_mtl_p7_zm_vending_sleight_detail"
+	"$bumpmap" "models/yolojoenshit/bo3perks/speedcola/mc_mtl_p7_zm_vending_sleight_detail_normal"
+	"$surfaceprop" "Metal"
+	"$nocull" 1
+	"$halflambert" 0
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost" "5"
+	"$phongexponenttexture" "models/yolojoenshit/bo3perks/speedcola/mc_mtl_p7_zm_vending_sleight_detail_g"
+	"$phongexponent" "20"
+	$phongfresnelranges "[.3 .65 10]"
+
+	"$envmap" "env_cubemap"	
+	"$envmaptint" "[.7 .7 .7]"	

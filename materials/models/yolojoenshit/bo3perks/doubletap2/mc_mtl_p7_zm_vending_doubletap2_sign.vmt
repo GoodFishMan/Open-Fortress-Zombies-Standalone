@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/doubletap2/mc_mtl_p7_zm_vending_doubletap2_sign"
+	"$bumpmap" "models/yolojoenshit/bo3perks/doubletap2/mc_mtl_p7_zm_vending_doubletap2_sign_n"
+	"$surfaceprop" "Metal"
+	"$selfillum" 1
+	  $phong 1
+	  $phongboost 50
+	  $phongexponent 200	
+	  $phongfresnelranges		"[0 0.5 1]"
+}

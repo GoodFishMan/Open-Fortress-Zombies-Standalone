@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/deadshot/i_mtl_p7_zm_vending_ads_c"
+	"$bumpmap" "models/yolojoenshit/bo3perks/deadshot/i_mtl_p7_zm_vending_ads_n"
+	"$surfaceprop" "Metal"
+	
+	"$detail" "models/yolojoenshit/bo3perks/deadshot/i_mtl_p7_zm_vending_ads_g"
+	"$detailblendfactor" "0.7"
+
+	  $phong 1
+	  $phongboost 50
+	  $phongexponent 200	
+	  $phongfresnelranges		"[0 0.5 1]"
+}

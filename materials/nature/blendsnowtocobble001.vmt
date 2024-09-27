@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "medieval/cobblestone006"
+	"$basetexture2" "Nature/snow_full001"
+	"$blendmodulatetexture" "nature/blendsnowtocobble_blendmask"
+	"%tooltexture" "nature/blendsnowtocobble001_tooltexture"
+	"$bumpmap" "Nature/flat_normal_noenv"
+	"$bumpmap2" "Nature/snow_full001_normal"
+	"$surfaceprop" "snow"
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+
+	"%keywords" "tf, frontline"
+}

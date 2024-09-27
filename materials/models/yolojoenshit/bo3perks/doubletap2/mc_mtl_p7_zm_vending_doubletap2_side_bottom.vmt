@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/doubletap2/mc_mtl_p7_zm_vending_doubletap2_side_bottom"
+	"$bumpmap" "models/yolojoenshit/bo3perks/doubletap2/mc_mtl_p7_zm_vending_doubletap2_side_bottom_n"
+	"$surfaceprop" "Metal"
+	"$nocull" 1
+	"$halflambert" 0
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost" "5"
+	"$phongexponenttexture" "models/yolojoenshit/bo3perks/doubletap2/mc_mtl_p7_zm_vending_doubletap2_side_bottom_g"
+	"$phongexponent" "20"
+	$phongfresnelranges "[.3 .65 10]"
+}

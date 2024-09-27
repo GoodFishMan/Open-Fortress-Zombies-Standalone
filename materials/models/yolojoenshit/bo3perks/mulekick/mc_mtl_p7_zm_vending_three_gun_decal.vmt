@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/mulekick/mc_mtl_p7_zm_vending_three_gun_decal"
+	"$bumpmap" "models/yolojoenshit/bo3perks/mulekick/normal_mk"
+	"$translucent" 1
+	"$phong" "1"
+	"$phongexponent" "125"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[.25 .5 1]"
+	"$surfaceprop" "Metal"
+}

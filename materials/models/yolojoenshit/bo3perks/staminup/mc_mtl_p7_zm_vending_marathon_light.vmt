@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yolojoenshit/bo3perks/staminup/mc_mtl_p7_zm_vending_marathon_light"
+	"$bumpmap" "models/yolojoenshit/bo3perks/mulekick/normal_mk"
+	"$selfillum" 1
+	"$surfaceprop" "Metal"
+}

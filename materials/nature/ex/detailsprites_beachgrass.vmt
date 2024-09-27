@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "detail/detailsprites_beach"
+	"$nocull" 1
+	$translucent 1
+	"$VertexColor" 1
+	"$VertexAlpha" "1"
+}

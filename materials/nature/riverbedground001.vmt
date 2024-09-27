@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature/riverbedground001"
+	"$bumpmap" "Nature/dirtground006_height-ssbump"
+	"%keywords" "tf, frontline"
+	"$ssbump" "1"
+	"$surfaceprop" "dirt"
+	"$detail" "overlays/detail004"
+	"$detailscale" "1.2"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+}
