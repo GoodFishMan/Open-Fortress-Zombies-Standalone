@@ -1,0 +1,8 @@
+"SpriteCard"
+{
+
+	"$basetexture" "sprites/fxt_env_lightning_bolt_trail2"
+	"$translucent" "1"
+	"$additive" "1"
+}
+

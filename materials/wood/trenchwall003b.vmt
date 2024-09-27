@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wood/trenchwall003b"
+	"$surfaceprop" "wood"
+	"%keywords" "tf, frontline"
+	"$bumpmap" "wood/trenchwall001_ssbump"
+        "$ssbump" "1"
+//	"$detail" "overlays/detail006"
+	"$detailscale" "1"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+}
