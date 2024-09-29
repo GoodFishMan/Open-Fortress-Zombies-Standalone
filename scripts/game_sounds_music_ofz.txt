@@ -1,0 +1,383 @@
+// Channels
+//	CHAN_AUTO		= 0,
+//	CHAN_WEAPON		= 1,
+//	CHAN_VOICE		= 2,
+//	CHAN_ITEM		= 3,
+//	CHAN_BODY		= 4,
+//	CHAN_STREAM		= 5,		// allocate stream channel from the static or dynamic area
+//	CHAN_STATIC		= 6,		// allocate channel from the static area 
+// these can be set with "channel" "2" or "channel" "chan_voice"
+
+//-----------------------------------------------------------------------------
+// common attenuation values
+//-----------------------------------------------------------------------------
+
+// DON'T USE THESE - USE SNDLVL_ INSTEAD!!!
+//	ATTN_NONE		0.0f	
+//	ATTN_NORM		0.8f
+//	ATTN_IDLE		2.0f
+//	ATTN_STATIC		1.25f 
+//	ATTN_RICOCHET	1.5f
+//	ATTN_GUNFIRE	0.27f
+
+//	SNDLVL_NONE		= 0,
+//	SNDLVL_25dB		= 25,
+//	SNDLVL_30dB		= 30,
+//	SNDLVL_35dB		= 35,
+//	SNDLVL_40dB		= 40,
+//	SNDLVL_45dB		= 45,
+//	SNDLVL_50dB		= 50,	// 3.9
+//	SNDLVL_55dB		= 55,	// 3.0
+//	SNDLVL_IDLE		= 60,	// 2.0
+//	SNDLVL_TALKING	= 60,	// 2.0
+//	SNDLVL_60dB		= 60,	// 2.0
+//	SNDLVL_65dB		= 65,	// 1.5
+//	SNDLVL_STATIC	= 66,	// 1.25
+//	SNDLVL_70dB		= 70,	// 1.0
+//	SNDLVL_NORM		= 75,
+//	SNDLVL_75dB		= 75,	// 0.8
+//	SNDLVL_80dB		= 80,	// 0.7
+//	SNDLVL_85dB		= 85,	// 0.6
+//	SNDLVL_90dB		= 90,	// 0.5
+//	SNDLVL_95dB		= 95,
+//	SNDLVL_100dB	= 100,	// 0.4
+//	SNDLVL_105dB	= 105,
+//	SNDLVL_120dB	= 120,
+//	SNDLVL_130dB	= 130,
+//	SNDLVL_GUNFIRE	= 140,	// 0.27
+//	SNDLVL_140dB	= 140,	// 0.2
+//	SNDLVL_150dB	= 150,	// 0.2
+
+// ------------------------------------------------------------------------------------ //
+// Music
+// ------------------------------------------------------------------------------------ //
+
+//Classic
+"nz.round.start"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"nzombies\music\classic\round_start.mp3"
+}
+
+"nz.round.end"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"nzombies\music\classic\round_end.mp3"
+}
+
+"nz.game.over"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"nzombies\music\classic\game_over_derriese.mp3"
+}
+
+"nz.game.over.nacht"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"nzombies\music\classic\game_over_nacht.mp3"
+}
+
+"nz.special.start"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"nzombies\music\classic\special_round_start.mp3"
+}
+
+"nz.special.end"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"nzombies\music\classic\special_round_end.mp3"
+}
+
+// New
+
+
+"nz.giant.round.start.first" // Startup sound
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"nzombies\music\new\Giant_start0.mp3"
+}
+
+"nz.giant.round.start" // for rounds 1-8
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	rndwave
+	{
+		wave		"nzombies\music\new\Giant_start1.mp3"
+		wave		"nzombies\music\new\Giant_start2.mp3"
+		wave		"nzombies\music\new\Giant_start3.mp3"
+		wave		"nzombies\music\new\Giant_start4.mp3"
+	}
+}
+
+"nz.giant.round.start.short" // for later rounds
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	rndwave
+	{
+		wave		"nzombies\music\new\Giant_start_short1.mp3"
+		wave		"nzombies\music\new\Giant_start_short2.mp3"
+		wave		"nzombies\music\new\Giant_start_short3.mp3"
+		wave		"nzombies\music\new\Giant_start_short4.mp3"
+	}
+}
+
+"nz.giant.round.end"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"nzombies\music\new\Giant_end.mp3"
+}
+
+"nz.giant.gameover" // GAMEOVER
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"nzombies\music\new\Giant_game_over.mp3"
+}
+
+
+// ------------------------------------------------------------------------------------ //
+// perk music
+// ------------------------------------------------------------------------------------ //
+
+
+//jugg
+
+"nz.perk.jugg"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\jugg.mp3"
+}
+
+"nz.perk.jugg.get"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\jugg_get.mp3"
+}
+
+//pack a punch
+"nz.perk.pap"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\pap.mp3"
+}
+
+"nz.perk.pap.get"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\pap_get.mp3"
+}
+//Stamin Up
+
+"nz.perk.sta"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\sta.mp3"
+}
+
+"nz.perk.sta.get"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\sta_get.mp3"
+}
+
+//Whoswho
+
+"nz.perk.whoswho"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\whoswho.mp3"
+}
+
+"nz.perk.whoswho.get"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\whoswho_get.mp3"
+}
+
+//SpeedCola
+
+"nz.perk.speed"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\speed.mp3"
+}
+
+"nz.perk.speed.get"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\speed_get.mp3"
+}
+
+//PHD
+
+"nz.perk.phd"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\phd.mp3"
+}
+
+"nz.perk.phd.get"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\phd_get.mp3"
+}
+
+//dtap
+
+"nz.perk.dtap"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\dtap.mp3"
+}
+
+"nz.perk.dtap.get"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\dtap_get.mp3"
+}
+
+//Deadshot
+
+"nz.perk.deadshot"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\deadshot.mp3"
+}
+
+"nz.perk.deadshot.get"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#nzombies\music\jingle\deadshot_get.mp3"
+}
+
+// Easter Egg
+
+"nz.radio.music"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_80dB"
+	"pitch"			"PITCH_NORM"
+	rndwave
+	{
+		wave		"music\deathmatch\boxytheme.ogg"
+		wave		"music\deathmatch\crossfire.ogg"
+		wave		"music\deathmatch\crossfire2.ogg"
+		wave		"music\deathmatch\dm_magnumsmooth_loop.ogg"
+		wave		"music\deathmatch\drawnandquartered.ogg"
+		wave		"music\deathmatch\fromthedead.mp3"
+		wave		"ui\gamestartup1.mp3"
+		wave		"ui\gamestartup2.mp3"
+		wave		"ui\gamestartup3.mp3"
+		wave		"ui\gamestartup4.mp3"
+		wave		"ui\gamestartup7.mp3"
+		wave		"ui\gamestartup9.mp3"
+		wave		"ui\gamestartup10.mp3"
+		wave		"ui\gamestartup11.mp3"
+		wave		"ui\gamestartup12.mp3"
+		wave		"music\deathmatch\robotmap.ogg"
+		wave		"music\deathmatch\stalker_loop.ogg"
+		wave		"music\deathmatch\stealing.ogg"
+		wave		"music\deathmatch\stuff.ogg"
+		wave		"music\deathmatch\waitingfor.ogg"
+	}
+}
+
+"EasterEgg.nacht"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#ui\gamestartup1.mp3"
+}
+
+"EasterEgg.doa"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"#ui\gamestartup11.mp3"
+}

@@ -1,0 +1,79 @@
+"announcers"
+{
+	"None"
+	{
+		"Any"	"1"
+	}
+	"Benja"
+	{
+		"CP" 	"0"
+		"CTF"	"1"
+		"DM"	"1"
+		"ESC"	"0"
+		"ARENA"	"1"
+		"INFECTION"	"1"
+	}
+	"Announcer"
+	{
+		"CP" 	"1"
+		"CTF"	"1"
+		"DM"	"1"
+		"ESC"	"1"
+		"ARENA"	"1"
+		"INFECTION"	"1"
+	}
+	"VOX"
+	{
+		"CP" 	"0"
+		"CTF"	"1"
+		"DM"	"1"
+		"ESC"	"0"
+		"ARENA"	"1"
+		"INFECTION"	"1"
+	}
+	"Soldier"
+	{
+		"CP" 	"0"
+		"CTF"	"1"
+		"DM"	"1"
+		"ESC"	"0"
+		"ARENA"	"1"
+		"INFECTION"	"1"
+	}
+	"Carl"
+	{
+		"CP" 	"0"
+		"CTF"	"1"
+		"DM"	"1"
+		"ESC"	"1"
+		"ARENA"	"1"
+		"INFECTION"	"1"
+	}
+	"Arena"
+	{
+		"CP" 	"0"
+		"CTF"	"1"
+		"DM"	"1"
+		"ESC"	"1"
+		"ARENA"	"0"
+		"INFECTION"	"1"
+	}
+	"Willfromafar"
+	{
+		"CP" 	"0"
+		"CTF"	"1"
+		"DM"	"1"
+		"ESC"	"1"
+		"ARENA"	"0"
+		"INFECTION"	"1"
+	}
+	"Merasmus"
+	{
+		"CP" 	"0"
+		"CTF"	"1"
+		"DM"	"1"
+		"ESC"	"1"
+		"ARENA"	"0"
+		"INFECTION"	"1"
+	}
+}
